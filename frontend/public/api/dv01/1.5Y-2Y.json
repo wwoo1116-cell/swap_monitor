@@ -1,4 +1,4 @@
 {"id":"1.5Y-2Y",
 "kind":"spread",
-"legs":[{"dv01":1.452896,"notional":132,"tenor":"1.5Y"},{"dv01":1.917522,"notional":100,"tenor":"2Y"}],
-"residual":-0.030037}
+"legs":[{"dv01":1.452229,"notional":132,"tenor":"1.5Y"},{"dv01":1.916238,"notional":100,"tenor":"2Y"}],
+"residual":-0.07049}
