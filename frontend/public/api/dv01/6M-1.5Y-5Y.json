@@ -1,4 +1,4 @@
 {"id":"6M-1.5Y-5Y",
 "kind":"fly",
-"legs":[{"dv01":0.493762,"notional":147,"tenor":"6M"},{"dv01":1.452237,"notional":100,"tenor":"1.5Y"},{"dv01":4.501306,"notional":16,"tenor":"5Y"}],
-"residual":0.619712}
+"legs":[{"dv01":0.493723,"notional":147,"tenor":"6M"},{"dv01":1.452069,"notional":100,"tenor":"1.5Y"},{"dv01":4.50242,"notional":16,"tenor":"5Y"}],
+"residual":0.590979}
